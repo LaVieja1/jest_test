@@ -1,0 +1,26 @@
+{
+  "name": "jest_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaVieja1/jest_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaVieja1/jest_test/issues"
+  },
+  "homepage": "https://github.com/LaVieja1/jest_test#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.15.8"
+  }
+}
